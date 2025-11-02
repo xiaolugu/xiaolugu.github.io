@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: 道之的博客 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline:  随想随记 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   文科生学习互联网
