@@ -99,8 +99,6 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 <<<<<<< HEAD
-avatar:
-
 =======
 avatar: /avatar.jpg
 # favicon: /favicon.ico
