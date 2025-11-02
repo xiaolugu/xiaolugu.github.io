@@ -99,7 +99,7 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 
-avatar: /avatar.jpg
+avatar:
 # favicon: /favicon.ico
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
